@@ -1,0 +1,486 @@
+2022-05-22 22:52:25,712 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-22 22:54:19,974 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.jar
+2022-05-22 22:54:20,346 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.jar
+2022-05-22 22:54:20,546 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.pom
+2022-05-22 22:54:20,752 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.4/maven-archetype-quickstart-1.4.pom
+2022-05-22 22:56:02,977 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Documentos\JavaProyectos\Maven\entidades\pom.xml
+2022-05-22 22:56:04,756 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2022-05-22 22:56:05,125 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2022-05-22 22:56:05,435 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.7.1/maven-site-plugin-3.7.1.jar
+2022-05-22 22:56:05,884 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.7.1/maven-site-plugin-3.7.1.jar
+2022-05-22 22:56:06,987 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\entidades\pom.xml.
+2022-05-22 22:56:07,874 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2022-05-22 22:56:08,245 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2022-05-22 22:56:08,761 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2022-05-22 22:56:08,958 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2022-05-22 22:56:09,321 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2022-05-22 22:56:09,992 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2022-05-22 22:56:10,309 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2022-05-22 22:56:10,534 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2022-05-22 22:56:10,796 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2022-05-22 22:56:11,025 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2022-05-22 22:56:11,231 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2022-05-22 22:56:11,491 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2022-05-22 22:56:11,800 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
+2022-05-22 22:56:12,063 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.2/commons-io-2.2.pom
+2022-05-22 22:56:12,285 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
+2022-05-22 22:56:12,629 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom
+2022-05-22 22:56:12,943 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2022-05-22 22:56:13,140 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2022-05-22 22:56:13,353 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2022-05-22 22:56:13,546 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.pom
+2022-05-22 22:56:13,809 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2022-05-22 22:56:14,021 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2022-05-22 22:56:14,274 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2022-05-22 22:56:14,468 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2022-05-22 22:56:14,504 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2022-05-22 22:56:14,701 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2022-05-22 22:56:14,881 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2022-05-22 22:56:14,884 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2022-05-22 22:56:15,126 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2022-05-22 22:56:15,139 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2022-05-22 22:56:15,245 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2022-05-22 22:56:15,278 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2022-05-22 22:56:15,310 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2022-05-22 22:56:15,433 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.5/xz-1.5.jar
+2022-05-22 22:56:15,985 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /entidades/src/main/java
+2022-05-22 22:56:15,996 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /entidades/src/test/java
+2022-05-22 22:56:16,179 [Worker-9: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2022-05-22 22:56:17,541 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 22:56:17,541 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-22 22:56:17,545 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 22:56:17,545 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-22 23:00:38,193 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:00:38,193 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-22 23:00:38,196 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:00:38,196 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-22 23:01:00,330 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:01:00,330 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-22 23:01:00,333 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:01:00,333 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-22 23:02:22,674 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Documentos\JavaProyectos\Maven\servicios\pom.xml
+2022-05-22 23:02:22,884 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\servicios\pom.xml.
+2022-05-22 23:02:22,964 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servicios/src/main/java
+2022-05-22 23:02:22,970 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /servicios/src/test/java
+2022-05-22 23:02:23,037 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-05-22 23:02:23,586 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:02:23,586 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:02:23,589 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:02:23,589 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:04:08,702 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\Documentos\JavaProyectos\Maven\test\pom.xml
+2022-05-22 23:04:08,877 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-22 23:04:08,951 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/main/java
+2022-05-22 23:04:08,960 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test/src/test/java
+2022-05-22 23:04:09,040 [Worker-14: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2022-05-22 23:04:10,133 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:04:10,133 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:04:10,137 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:04:10,137 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:05:40,739 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:05:40,740 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-22 23:05:40,743 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:05:40,743 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-22 23:05:52,361 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:05:52,362 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-22 23:05:52,368 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:05:52,369 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-22 23:10:32,802 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:10:32,802 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-22 23:10:32,805 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:10:32,805 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-22 23:11:01,308 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:11:01,308 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:11:01,310 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:11:01,310 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:11:18,576 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:11:18,576 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:11:18,579 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:11:18,579 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:14:37,816 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\servicios\pom.xml.
+2022-05-22 23:14:37,832 [Worker-2: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-22 23:14:37,943 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:14:37,943 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:14:37,946 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:14:37,947 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:14:39,179 [Worker-15: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-22 23:14:39,183 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:14:39,183 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:14:39,185 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:14:39,185 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:14:40,236 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:14:40,236 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:14:40,238 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:14:40,239 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:36:04,930 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:36:04,930 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:36:04,934 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:36:04,934 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:36:19,363 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:36:19,363 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:36:19,367 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:36:19,367 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:36:29,451 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:36:29,451 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:36:29,454 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:36:29,454 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:38:04,470 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-22 23:38:04,491 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-22 23:38:04,492 [Worker-29: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-22 23:38:04,591 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:38:04,591 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:38:04,593 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:38:04,594 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:38:05,754 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-22 23:38:05,755 [Worker-30: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-22 23:38:05,760 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:38:05,760 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:38:05,762 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:38:05,762 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:47:10,336 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:47:10,336 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:47:10,339 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:47:10,339 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:48:04,374 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:48:04,375 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:48:04,377 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:48:04,377 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:49:56,714 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:49:56,714 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:49:56,716 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:49:56,716 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:50:06,032 [Worker-33: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:50:06,034 [Worker-33: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:50:06,046 [Worker-33: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:50:06,047 [Worker-33: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:50:06,059 [Worker-33: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:50:06,059 [Worker-33: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:53:13,953 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:53:13,953 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:53:13,955 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:53:13,955 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:53:17,897 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:53:17,898 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:53:17,910 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:53:17,910 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:53:17,921 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:53:17,921 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:54:20,218 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:54:20,218 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:54:20,221 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:54:20,222 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:54:20,299 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:54:20,300 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:54:20,309 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:54:20,309 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:54:20,319 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:54:20,319 [Worker-35: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:58:04,129 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:58:04,129 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:58:04,131 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:58:04,131 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:58:04,156 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:58:04,156 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:58:04,165 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:58:04,165 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:58:04,176 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:58:04,177 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:58:59,981 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:58:59,981 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-22 23:58:59,983 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:58:59,984 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-22 23:59:04,391 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:04,391 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:04,400 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:04,400 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:04,412 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:04,412 [Worker-41: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:41,589 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:59:41,589 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:59:41,591 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:59:41,591 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:59:41,617 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:41,617 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:41,627 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:41,628 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:41,641 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:41,641 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:52,853 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:59:52,853 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-22 23:59:52,857 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-22 23:59:52,857 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-22 23:59:52,880 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:52,880 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:52,892 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:52,892 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-22 23:59:52,902 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-22 23:59:52,902 [Worker-37: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 00:22:50,285 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:22:50,286 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:22:50,288 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:22:50,289 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:30:13,322 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:30:13,323 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:30:13,325 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:30:13,325 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:35:32,615 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 00:35:32,679 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 00:35:32,680 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 00:35:32,818 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:35:32,818 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:35:32,820 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:35:32,820 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:35:33,266 [Worker-53: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 00:35:33,266 [Worker-53: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 00:35:33,345 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:35:33,345 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:35:33,348 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:35:33,349 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:35:36,190 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 00:35:36,190 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 00:35:36,200 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 00:35:36,201 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 00:35:36,211 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 00:35:36,211 [Worker-46: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 00:35:38,450 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2-sources.jar
+2022-05-23 00:35:39,953 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2-sources.jar
+2022-05-23 00:35:39,959 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.17.2
+2022-05-23 00:35:40,951 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2-sources.jar
+2022-05-23 00:35:47,938 [Worker-51: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2-sources.jar
+2022-05-23 00:35:47,947 [Worker-51: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.17.2
+2022-05-23 00:35:48,186 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:35:48,187 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:35:48,191 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:35:48,191 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:40:22,089 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:40:22,089 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:40:22,090 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:40:22,091 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:56:29,982 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:56:29,982 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 00:56:29,984 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 00:56:29,984 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 00:56:40,035 [Worker-56: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 00:56:40,035 [Worker-56: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 00:56:40,053 [Worker-56: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 00:56:40,053 [Worker-56: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 00:56:40,068 [Worker-56: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 00:56:40,068 [Worker-56: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 01:12:03,504 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:12:03,542 [Worker-59: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:12:03,543 [Worker-59: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:12:04,692 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.0-rc1/log4j-core-2.0-rc1.jar
+2022-05-23 01:12:05,724 [Worker-59: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.0-rc1/log4j-core-2.0-rc1.jar
+2022-05-23 01:12:05,804 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:12:05,805 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:12:05,806 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:12:05,806 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:12:06,891 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:12:06,891 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:12:07,070 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:12:07,070 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:12:07,071 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:12:07,071 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:12:07,688 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.0-rc1/log4j-api-2.0-rc1-sources.jar
+2022-05-23 01:12:08,183 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.0-rc1/log4j-api-2.0-rc1-sources.jar
+2022-05-23 01:12:08,193 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.0-rc1
+2022-05-23 01:12:09,002 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.0-rc1/log4j-core-2.0-rc1-sources.jar
+2022-05-23 01:12:10,034 [Worker-64: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.0-rc1/log4j-core-2.0-rc1-sources.jar
+2022-05-23 01:12:10,042 [Worker-64: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.0-rc1
+2022-05-23 01:12:10,201 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:12:10,201 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:12:10,203 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:12:10,204 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:14:45,471 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:14:45,471 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:14:45,473 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:14:45,473 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:19:24,108 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:19:24,108 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:19:24,109 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:19:24,109 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:20:39,084 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:20:39,084 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:20:39,086 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:20:39,086 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:21:11,777 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:21:11,777 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:21:11,778 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:21:11,779 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:23:53,353 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:23:53,354 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:23:53,355 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:23:53,355 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:28:35,616 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:28:35,616 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:28:35,618 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:28:35,618 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:29:02,427 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:29:02,428 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:29:02,430 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:29:02,430 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:32:17,449 [Worker-75: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:32:17,517 [Worker-75: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:32:17,517 [Worker-75: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:32:17,594 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:32:17,594 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:32:17,596 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:32:17,596 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:32:18,849 [Worker-74: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:32:18,849 [Worker-74: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:32:18,856 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:32:18,857 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:32:18,859 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:32:18,860 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:36:20,130 [Worker-77: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:36:20,161 [Worker-77: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:36:20,162 [Worker-77: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:36:20,208 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:36:20,209 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:36:20,211 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:36:20,211 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:36:21,476 [Worker-78: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:36:21,476 [Worker-78: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:36:21,482 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:36:21,482 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:36:21,484 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:36:21,485 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:36:22,733 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:36:22,733 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:36:22,735 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:36:22,735 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:38:42,159 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:38:42,208 [Worker-80: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:38:42,209 [Worker-80: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:38:42,268 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:38:42,268 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:38:42,269 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:38:42,270 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:38:43,330 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:38:43,331 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:38:43,436 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:38:43,436 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:38:43,438 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:38:43,438 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:38:44,487 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/2.17.2/log4j-jcl-2.17.2-sources.jar
+2022-05-23 01:38:44,839 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/2.17.2/log4j-jcl-2.17.2-sources.jar
+2022-05-23 01:38:44,847 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-jcl:2.17.2
+2022-05-23 01:38:45,597 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-05-23 01:38:46,006 [Worker-78: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2022-05-23 01:38:46,015 [Worker-78: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2022-05-23 01:38:46,173 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:38:46,173 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:38:46,174 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:38:46,174 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:41:13,755 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:41:13,814 [Worker-79: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:41:13,814 [Worker-79: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:41:13,878 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:13,878 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:41:13,880 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:13,880 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:41:14,927 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:41:14,928 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:41:15,211 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:15,211 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:41:15,213 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:15,213 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:41:15,918 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1-sources.jar
+2022-05-23 01:41:17,215 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.14.1/log4j-core-2.14.1-sources.jar
+2022-05-23 01:41:17,224 [Worker-80: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.14.1
+2022-05-23 01:41:18,042 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/2.14.1/log4j-jcl-2.14.1-sources.jar
+2022-05-23 01:41:18,424 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/2.14.1/log4j-jcl-2.14.1-sources.jar
+2022-05-23 01:41:18,432 [Worker-80: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-jcl:2.14.1
+2022-05-23 01:41:18,655 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:18,656 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:41:18,660 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:18,660 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:41:58,179 [Worker-84: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:41:58,224 [Worker-84: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:41:58,225 [Worker-84: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:41:58,281 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:58,281 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:41:58,282 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:58,282 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:41:59,380 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:41:59,380 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:41:59,537 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:59,537 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:41:59,538 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:41:59,539 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:42:00,456 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1-sources.jar
+2022-05-23 01:42:01,238 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.14.1/log4j-api-2.14.1-sources.jar
+2022-05-23 01:42:01,243 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.14.1
+2022-05-23 01:42:01,433 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:42:01,434 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:42:01,435 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:42:01,435 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:43:54,848 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:43:54,887 [Worker-79: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:43:54,889 [Worker-79: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:43:54,951 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:43:54,951 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:43:54,953 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:43:54,953 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:44:18,749 [Worker-86: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:44:18,749 [Worker-86: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:44:18,843 [Worker-86: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:44:18,883 [Worker-86: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:44:18,883 [Worker-86: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:44:18,970 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:44:18,970 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:44:18,972 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:44:18,972 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:44:20,061 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:44:20,061 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:44:20,212 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:44:20,213 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:44:20,214 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:44:20,214 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:44:20,860 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1-sources.jar
+2022-05-23 01:44:21,554 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.17.1/log4j-api-2.17.1-sources.jar
+2022-05-23 01:44:21,562 [Worker-80: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-api:2.17.1
+2022-05-23 01:44:22,308 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1-sources.jar
+2022-05-23 01:44:23,440 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-core/2.17.1/log4j-core-2.17.1-sources.jar
+2022-05-23 01:44:23,447 [Worker-80: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-core:2.17.1
+2022-05-23 01:44:24,178 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/2.17.1/log4j-jcl-2.17.1-sources.jar
+2022-05-23 01:44:24,559 [Worker-80: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-jcl/2.17.1/log4j-jcl-2.17.1-sources.jar
+2022-05-23 01:44:24,563 [Worker-80: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.logging.log4j:log4j-jcl:2.17.1
+2022-05-23 01:44:24,716 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:44:24,716 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:44:24,717 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:44:24,717 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:45:34,498 [Worker-79: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.proyectoQuickstart:test:0.0.1-SNAPSHOT @ D:\Documentos\JavaProyectos\Maven\test\pom.xml.
+2022-05-23 01:45:34,537 [Worker-79: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:45:34,537 [Worker-79: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:45:34,596 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:45:34,596 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:45:34,598 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:45:34,598 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:46:59,299 [Worker-86: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier  to /servicios/target/classes
+2022-05-23 01:46:59,299 [Worker-86: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier  to /entidades/target/classes
+2022-05-23 01:46:59,304 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:46:59,304 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:46:59,308 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:46:59,308 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:48:13,093 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:48:13,093 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\main\resources
+2022-05-23 01:48:13,094 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:48:13,094 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\test\src\test\resources
+2022-05-23 01:48:37,495 [Worker-80: Launching Executing install in D__Documentos_JavaProyectos_Maven_entidades] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documentos\JavaProyectos\Maven\entidades
+2022-05-23 01:48:37,515 [Worker-80: Launching Executing install in D__Documentos_JavaProyectos_Maven_entidades] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-05-23 01:48:50,227 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:48:50,227 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\main\resources
+2022-05-23 01:48:50,229 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:48:50,229 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\entidades\src\test\resources
+2022-05-23 01:51:45,726 [Worker-79: Launching Executing install in D__Documentos_JavaProyectos_Maven_servicios] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Documentos\JavaProyectos\Maven\servicios
+2022-05-23 01:51:45,726 [Worker-79: Launching Executing install in D__Documentos_JavaProyectos_Maven_servicios] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-05-23 01:51:56,777 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:51:56,777 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\main\resources
+2022-05-23 01:51:56,779 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-23 01:51:56,779 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Documentos\JavaProyectos\Maven\servicios\src\test\resources
+2022-05-23 01:52:32,902 [Worker-90: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 01:52:32,903 [Worker-90: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 01:52:32,928 [Worker-90: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 01:52:32,929 [Worker-90: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes
+2022-05-23 01:52:32,952 [Worker-90: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/servicios: com.proyectoQuickstart:servicios:0.0.1-SNAPSHOT with classifier null to /servicios/target/classes
+2022-05-23 01:52:32,952 [Worker-90: Launching TestPersona] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/entidades: com.proyectoQuickstart:entidades:0.0.1-SNAPSHOT with classifier null to /entidades/target/classes

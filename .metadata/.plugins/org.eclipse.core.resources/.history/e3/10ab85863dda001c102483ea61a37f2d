@@ -1,0 +1,5 @@
+package com.proyectoQuickstart.entidades;
+
+public class Persona {
+
+}

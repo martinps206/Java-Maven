@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn">
+  <appenders>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+
+    <File name="LogToFile" fileName="logs/app.txt">
+        <PatternLayout pattern="%d{yyyy-mm-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </File>             
+  </appenders>
+
+  <loggers>     
+  	<Logger name="org.apache.log4j.xml" level="info"/>
+    <root level="warn">
+      <Appender-Ref ref="LogToFile" level="info"/>
+      <Appender-Ref ref="Console" level="info"/>
+      <Appender-Ref ref="MyFile" level="error"/>
+    </root>    
+  </loggers>
+</Configuration>

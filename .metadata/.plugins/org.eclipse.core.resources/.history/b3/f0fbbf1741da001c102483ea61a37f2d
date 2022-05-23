@@ -1,0 +1,10 @@
+package com.proyectoQuickstart.servicios;
+
+import java.util.ArrayList;
+
+public class ServicioPersona {
+	
+	ArrayList<Persona> personas;
+	
+
+}
